@@ -7,11 +7,6 @@
 ###
 
 
-<div align="center">
-  <a href="https://github.com/MaraLeao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaraLeao&show_icons=true&theme=omni"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaraLeao&layout=compact&theme=omni"/>
-</div>
   
   ## Aprendendo
   
