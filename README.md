@@ -1,8 +1,8 @@
 # Olá, eu sou Maria Clara!
 
 
--  Estou cursando Ciência da computação (UNIPE) 💻
--  Estudando atualmente sobre HTML, CSS, JavaScript e Python 📚
+-  Cursando Ciência da computação 💻
+-  Estudando atualmente para me tornar Fullstack 📚
 
 ###
 
