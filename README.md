@@ -5,7 +5,6 @@
   📚 Estudando atualmente **desenvolvimento Mobile** e **cibersegurança**.<br>
 </p>
 
----
 
 ### Stats
 
