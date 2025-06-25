@@ -2,7 +2,7 @@
 
 <p>
   💻 Cursando <strong>Ciência da Computação</strong><br>
-  📚 Estudando atualmente **desenvolvimento Mobile** e **cibersegurança**.<br>
+  📚 Estudando atualmente <b>desenvolvimento Mobile</b> e <b>cibersegurança</b>.<br>
 </p>
 
 
